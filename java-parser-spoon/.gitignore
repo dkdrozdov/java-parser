@@ -2,3 +2,5 @@ output*
 target
 spooned
 .idea
+.vscode/
+dependency-reduced-pom.xml
